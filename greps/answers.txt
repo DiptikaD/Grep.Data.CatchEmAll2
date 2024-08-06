@@ -1,25 +1,32 @@
 # Part 1
 ### a)
-
+devi@Zipcoders-MacBook-Pro-53 forest % grep "bulb" filescan_00.1 > bulbasaur.txt
+devi@Zipcoders-MacBook-Pro-53 forest % grep "blas" filescan_00.1 > blastoise.txt
+devi@Zipcoders-MacBook-Pro-53 forest % grep "beed" filescan_00.1 > beedrill.txt 
+devi@Zipcoders-MacBook-Pro-53 forest % grep "butt" filescan_00.1 > butterfree.txt     
+devi@Zipcoders-MacBook-Pro-53 forest % grep "meleon$" filescan_00.2 > charmeleon.txt
+devi@Zipcoders-MacBook-Pro-53 forest % grep "izard$" filescan_00.2 > charizard.txt
+devi@Zipcoders-MacBook-Pro-53 forest % grep "mander$" filescan_00.2 > charmander.txt
+devi@Zipcoders-MacBook-Pro-53 forest % grep "^pika" filescan_00.3 > pikachu.txt
+devi@Zipcoders-MacBook-Pro-53 forest % grep "^jigg" filescan_00.3 > jigglypuff.txt
+devi@Zipcoders-MacBook-Pro-53 forest % grep "^meow" filescan_00.3 > meowth.txt
+devi@Zipcoders-MacBook-Pro-53 forest % grep "^ivy" filescan_00.3 > ivysaur.txt
+devi@Zipcoders-MacBook-Pro-53 forest % grep "^squi" filescan_00.4 > squirtle.txt
+devi@Zipcoders-MacBook-Pro-53 forest % grep "^wart" filescan_00.4 > wartortle.txt
+devi@Zipcoders-MacBook-Pro-53 forest % grep "^psyd" filescan_00.4 > psyduck.txt
+devi@Zipcoders-MacBook-Pro-53 forest % grep "^venu" filescan_00.4 > venusaur.txt
 
 
 
 ### b)
-
+done, but theyre released in the forest
 
 
 ### c)
-
-
-
-
-
-
-
-
-
-
-
+00.1 = bulbasaur, blastoise, beedrill
+00.2 = charmeleon, charmander, charizard
+00.3 = pikachu, jigglypuff, meowth, ivysaur
+00.4 = squirtle, wartortle, psyduck, venusaur
 
 
 # Part 2
@@ -32,7 +39,10 @@
 
 ### b)
 
+00.3 = pikachu @ 40 lines
+00.2 = charizard  @ 40 lines
+00.1 = bedrill @ 40 lines
 
-
+grep -c  "beed" filescan_00.1
 
 
