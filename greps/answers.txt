@@ -19,7 +19,22 @@ devi@Zipcoders-MacBook-Pro-53 forest % grep "^venu" filescan_00.4 > venusaur.txt
 
 
 ### b)
-done, but theyre released in the forest
+bulbasaur.txt
+blastoise.txt
+beedrill.txt 
+butterfree.txt  
+charmeleon.txt
+charizard.txt
+charmander.txt
+pikachu.txt
+jigglypuff.txt
+meowth.txt
+ivysaur.txt
+squirtle.txt
+wartortle.txt
+psyduck.txt
+venusaur.txt
+
 
 
 ### c)
